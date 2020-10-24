@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a Mathematician by training and Deep Learning Enthusiast:
+I am a Mathematician by training and a Deep Learning enthusiast:
 
-- :goal_net: I want to use the power to AI to bring a positive change in the world​
+- :goal_net: I want to use the power of AI to bring a positive change in the world​
 - 🔭 I’m currently working on master thesis project at [Computer Vision Lab](https://vision.ee.ethz.ch/)
 - 🌱 I’m currently learning [domain adaptation](https://en.wikipedia.org/wiki/Domain_adaptation), continual learning and much more
 - 💬 Ask me about: India, Switzerland
