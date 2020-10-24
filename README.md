@@ -2,9 +2,21 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on master thesis project
-- 🌱 I’m currently learning domain adaptation, continual learning and much more
-- 💬 Ask me about Statistics, Switzerland
-- 📫 How to reach me: peshala48 (at) gmail
+- :goal_net: I want to use the power to AI to bring a positive change in the world​
+- 🔭 I’m currently working on master thesis project at [Computer Vision Lab](https://vision.ee.ethz.ch/)
+- 🌱 I’m currently learning [domain adaptation](https://en.wikipedia.org/wiki/Domain_adaptation), continual learning and much more
+- 💬 Ask me about: India, Switzerland
+- 📫 How to reach me: peshala48 (at) gmail (dot) com
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I prefer typing urls instead of Google search
+- ⚡ Fun fact: My name is one the [thousand names of Lord Vishnu](https://en.wikipedia.org/wiki/Vishnu_Sahasran%C4%81ma) (a Hindu God)
+
+
+
+I have worked in the following domains:
+
+- [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)
+- [Adversarial Machine Learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning)
+- [Topic Modeling](https://en.wikipedia.org/wiki/Topic_model)
+- [Bayesian Inference](https://en.wikipedia.org/wiki/Bayesian_inference)
+- [Boosting Methods](https://en.wikipedia.org/wiki/Boosting_(machine_learning))
+- [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
