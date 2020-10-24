@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+I am a Mathematician by training and Deep Learning Enthusiast:
 
 - :goal_net: I want to use the power to AI to bring a positive change in the world​
 - 🔭 I’m currently working on master thesis project at [Computer Vision Lab](https://vision.ee.ethz.ch/)
