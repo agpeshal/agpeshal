@@ -19,4 +19,3 @@ I have worked in the following domains:
 - [Topic Modeling](https://en.wikipedia.org/wiki/Topic_model)
 - [Bayesian Inference](https://en.wikipedia.org/wiki/Bayesian_inference)
 - [Boosting Methods](https://en.wikipedia.org/wiki/Boosting_(machine_learning))
-- [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
