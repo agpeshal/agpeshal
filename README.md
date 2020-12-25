@@ -19,3 +19,5 @@ I have worked in the following domains:
 - [Topic Modeling](https://en.wikipedia.org/wiki/Topic_model)
 - [Bayesian Inference](https://en.wikipedia.org/wiki/Bayesian_inference)
 - [Boosting Methods](https://en.wikipedia.org/wiki/Boosting_(machine_learning))
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=agpeshal&count_private=true&show_icons=true&hide=stars&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
