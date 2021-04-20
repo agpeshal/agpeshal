@@ -3,7 +3,7 @@
 I am a Mathematician by training and a Deep Learning enthusiast:
 
 - :goal_net: I want to use the power of AI to bring a positive change in the world​
-- 🔭 I recently completed my master thesis project on [domain adaptation](https://arxiv.org/abs/2103.14577) at [Prof. Luc van Gool's Lab](https://vision.ee.ethz.ch/) in ETH Zurich.
+- 🔭 I recently completed my master thesis project on [domain adaptation](https://arxiv.org/abs/2103.14577) at [Prof. Luc Van Gool's Lab](https://icu.ee.ethz.ch/) in ETH Zurich.
 - 🌱 I am looking for challenges in deep learning.
 - 💬 Ask me about: India, Switzerland
 - 📫 How to reach me: peshala48 (at) gmail (dot) com
