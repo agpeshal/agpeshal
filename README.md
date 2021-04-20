@@ -3,8 +3,8 @@
 I am a Mathematician by training and a Deep Learning enthusiast:
 
 - :goal_net: I want to use the power of AI to bring a positive change in the world​
-- 🔭 I’m currently working on master thesis project at [Computer Vision Lab](https://vision.ee.ethz.ch/)
-- 🌱 I’m currently learning [domain adaptation](https://en.wikipedia.org/wiki/Domain_adaptation), continual learning and much more
+- 🔭 I recently completed my master thesis project on [domain adaptation](https://arxiv.org/abs/2103.14577) at [Prof. Luc van Gool's Lab](https://vision.ee.ethz.ch/) in ETH Zurich.
+- 🌱 I am looking for challenges in deep learning.
 - 💬 Ask me about: India, Switzerland
 - 📫 How to reach me: peshala48 (at) gmail (dot) com
 - 😄 Pronouns: he/his
