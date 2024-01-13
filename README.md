@@ -1,15 +1,16 @@
-### Hi there 👋
+# Hi! I am Peshal 👋
 
-I am a Mathematician by training and a Deep Learning enthusiast:
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/peshal-agarwal/)
+[![Website Badge](https://img.shields.io/badge/-Homepage-green?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://agpeshal.github.io)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:peshala48@gmail.com)
+
+Welcome to my profile! I am a Deep Learning Engineer with over five years of experience in machine learning and statistics. I have worked for a Computer Vision startup [Pallon](www.pallon.com) for more than two years, training and deployed models in object detection (Swin transformers, DETR, FasterRCNN, etc.), image segmentation (Segment Anything Model) and classification over a large set of images. I have worked for IBM Research and Goldman Sachs in the past. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/peshal-agarwal/)!
 
 - :goal_net: I want to use the power of AI to bring a positive change in the world​
-- 🔭 I recently completed my master thesis project on [domain adaptation](https://arxiv.org/abs/2103.14577) at [Prof. Luc Van Gool's Lab](https://icu.ee.ethz.ch/) in ETH Zurich.
-- 🌱 I am looking for challenges in deep learning.
-- 💬 Ask me about: India, Switzerland
-- 📫 How to reach me: peshala48 (at) gmail (dot) com
+- 🔭 I completed my master thesis on [domain adaptation](https://arxiv.org/abs/2103.14577) at [Prof. Luc Van Gool's Lab](https://icu.ee.ethz.ch/) in ETH Zurich.
+- 🌱 I am looking for challenges in deep learning modeling
+- 💬 Ask me about: Linear Algebra, Calculus, Statistics, Python, AI
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: My name is one the [thousand names of Lord Vishnu](https://en.wikipedia.org/wiki/Vishnu_Sahasran%C4%81ma) (a Hindu God)
-
 
 
 I have worked in the following domains:
