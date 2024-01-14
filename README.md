@@ -4,16 +4,17 @@
 [![Website Badge](https://img.shields.io/badge/-Homepage-green?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://agpeshal.github.io)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:peshala48@gmail.com)
 
-Welcome to my profile! I am a Deep Learning Engineer with over five years of experience in machine learning and statistics. I have worked for a Computer Vision startup [Pallon](http://www.pallon.com) for more than two years, training and deployed models in object detection (Swin transformers, DETR, FasterRCNN, etc.), image segmentation (Segment Anything Model) and classification over a large set of images. I have worked for IBM Research and Goldman Sachs in the past. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/peshal-agarwal/)!
+Welcome to my profile! I am a **Machine Learning Engineer** with over five years of experience in machine learning and statistics. I have worked for a Computer Vision startup [Pallon](http://www.pallon.com) for more than two years, training and deployed models in object detection (Swin transformers, DETR, FasterRCNN, etc.), image segmentation (Segment Anything Model) and classification over a large set of images. I have worked for IBM Research and Goldman Sachs in the past. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/peshal-agarwal/)!
 
 - :goal_net: I want to use the power of AI to bring a positive change in the world​
 - 🔭 I completed my master thesis on [domain adaptation](https://arxiv.org/abs/2103.14577) at [Prof. Luc Van Gool's Lab](https://icu.ee.ethz.ch/) in ETH Zurich.
 - 🌱 I am looking for challenges in deep learning modeling
-- 💬 Ask me about: Linear Algebra, Calculus, Statistics, Python, AI
+- 💬 Ask me about: ML, Linear Algebra, Calculus, Statistics
+- ⚡ Fun fact: I like meeting new people and learning about technology. I enjoy playing badminton.
 - 😄 Pronouns: he/his
 
 
-I have worked in the following domains:
+I have some experience in the following subdomains of AI:
 
 - [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)
 - [Adversarial Machine Learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning)
