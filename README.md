@@ -21,18 +21,7 @@ I have worked in the following domains:
 - [Bayesian Inference](https://en.wikipedia.org/wiki/Bayesian_inference)
 - [Boosting Methods](https://en.wikipedia.org/wiki/Boosting_(machine_learning))
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=agpeshal&count_private=true&show_icons=true&hide=stars&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
-<!---
-<a href="https://github.com/agpeshal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agpeshal&hide=css,html&layout=compact" />
-</a>
--->
-
-<details open>
-  <summary><b>🛠️&nbsp;&nbsp;Framworks&nbsp;and&nbsp;Tools</b></summary>
-  <br/>
+## Frameworks and Tools
   <a href="https://www.pytorch.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" alt="pytorch" style="width: 100px; height: 100px; margin-right: 10px; vertical-align: top;"> </a>
   <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="tf" style="width: 100px; height: 100px; margin-right: 10px; vertical-align: top;"> </a>
   <a href="https://numpy.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" style="width: 100px; height: 100px; margin-right: 10px;">
@@ -48,6 +37,11 @@ I have worked in the following domains:
   <a href="https://www.warp.dev/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*M81rTHp1KG3h-7Y1E-56jA@2x.jpeg" alt="" style="width: 150px; height: 60px; margin-right: 10px;"> </a>
     
   </p>
- </details>
 
+## Stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=agpeshal&count_private=true&show_icons=true&hide=stars&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/agpeshal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agpeshal&hide=css,html&layout=compact" />
+</a>
 
